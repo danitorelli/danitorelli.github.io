@@ -2,8 +2,8 @@
 layout: post
 cover: 'assets/images/cover4.jpg'
 navigation: True
-title:  "O que é Terraform"
-date: 2023-03-02 10:18:00
+title:  "Red - Taylor Swift"
+date: 2023-03-02
 tags: speeches
 subclass: 'post tag-speeches'
 logo: 'assets/images/ghost.png'
